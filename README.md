@@ -12,7 +12,7 @@ Feature 4
 ![5  Feature 5](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/f3806097-28
 Faq
 ![6  FAQ](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/4b6a8478-c251-492b-813b-5f933d087892)
-13-407b-87b4-3724e0fd911f)
+
 faq Feature
 ![7  Faq Feature](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/4e26e29b-6c3f-46bc-8d62-29fce30f5dd1)
 Footer
