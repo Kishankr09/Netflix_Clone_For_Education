@@ -1,1 +1,1 @@
-# Netflix_Clone_For_Education
+# Netflix_Clone_For_Educational_Purpose
