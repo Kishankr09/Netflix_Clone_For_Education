@@ -9,7 +9,8 @@ Feature 2
 Feature 3
 ![4  Feature 3](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/e686e730-cd6f-4e07-97e7-f7ced9fe4830)
 Feature 4
-![5  Feature 5](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/f3806097-28
+![5  Feature 5](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/758836a6-3ecd-4ebf-9317-e34c33037dbb)
+
 Faq
 ![6  FAQ](https://github.com/Kishankr09/Netflix_Clone_For_Educational_Purpose/assets/68832175/4b6a8478-c251-492b-813b-5f933d087892)
 
